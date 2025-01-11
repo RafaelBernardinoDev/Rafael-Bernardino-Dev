@@ -42,4 +42,9 @@ Me chamo Rafael, tenho 23 anos e moro em São Paulo. Sou um desenvolvedor inicia
 <a href="https://www.linkedin.com/in/rafael-bernardino-835b8719a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+# GitHub Status
+<div>
+<a href="https://github.com/RafaelBernardinoDev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
